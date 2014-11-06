@@ -1,4 +1,4 @@
 #!/bin/bash
-SDK=$HOME/android-studio/sdk
+SDK=$HOME/android-sdk
 export PATH=$PATH:$SDK/tools:$SDK/platform-tools
 export ANDROID_HOME=$SDK
