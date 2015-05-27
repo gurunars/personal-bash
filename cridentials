@@ -1,5 +1,5 @@
 #!/bin/bash
-export EMAIL="anton.berezin@f-secure.com"
+export EMAIL="gurunars@f-secure.com"
 export NAME="Anton Berezin"
 export DEBEMAIL=$EMAIL
 export DEBFULLNAME=$NAME
